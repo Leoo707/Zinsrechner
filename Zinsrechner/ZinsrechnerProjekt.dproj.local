@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.683,D:\Entwicklung\Projekte\Neuer Ordner\Zinsrechner-main\Zinsrechner-main\Zinsrechner\Unit1.pas=D:\Entwicklung\Projekte\Neuer Ordner\Zinsrechner-main\Zinsrechner-main\Zinsrechner\About.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.414,=D:\Entwicklung\Projekte\Neuer Ordner\Zinsrechner-main\Zinsrechner-main\Zinsrechner\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.575,D:\Projekte\Project1.dproj=D:\Projekte\Tests\Zinsrechner\ZinsrechnerProjekt.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.772,D:\Projekte\Unit1.dfm=D:\Projekte\Tests\Zinsrechner\Zinsrechner.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.647,D:\Entwicklung\Projekte\Neuer Ordner\Zinsrechner-main\Zinsrechner-main\Zinsrechner\About.pas=D:\Entwicklung\Projekte\Neuer Ordner\Zinsrechner-main\Zinsrechner-main\Zinsrechner\AboutWindow.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.633,=D:\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.772,D:\Projekte\Unit1.pas=D:\Projekte\Tests\Zinsrechner\Zinsrechner.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.924,=D:\Projekte\Unit1.pas</Transaction>
+    <Transaction>2025.09.17 07:21:33.259,D:\Entwicklung\Projekte\Neuer Ordner\Zinsrechner-main\Zinsrechner-main\Zinsrechner\ZinsrechnerFunctions.dfm=D:\Entwicklung\Projekte\Neuer Ordner\Zinsrechner-main\Zinsrechner-main\Zinsrechner\Zinsrechner.dfm</Transaction>
+    <Transaction>2025.09.17 07:21:33.259,D:\Entwicklung\Projekte\Neuer Ordner\Zinsrechner-main\Zinsrechner-main\Zinsrechner\ZinsrechnerFunctions.pas=D:\Entwicklung\Projekte\Neuer Ordner\Zinsrechner-main\Zinsrechner-main\Zinsrechner\Zinsrechner.pas</Transaction>
+  </Transactions>
+</BorlandProject>
